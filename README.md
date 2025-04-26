@@ -6,14 +6,14 @@ If you like my projects, consider giving them a star! I really appreciate it!
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=theletron&theme=github_dark_dimmed&custom_title=GitHub%20Stats&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=pr0xim1ty&theme=github_dark_dimmed&custom_title=GitHub%20Stats&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=theletron&theme=default&custom_title=GitHub%20Stats&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=pr0xim1ty&theme=default&custom_title=GitHub%20Stats&show_icons=true"
     media="(prefers-color-scheme: light)"
   />
   
-  <img alt="Çınar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=theletron&custom_title=GitHub%20Stats&show_icons=true" />
+  <img alt="Çınar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pr0xim1ty&custom_title=GitHub%20Stats&show_icons=true" />
 </picture>
